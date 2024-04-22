@@ -9,7 +9,7 @@ public class SampleCode {
         //acc.CreatedDate =system.Date;
         acclist.add(acc);
         insert acclist;
-   //testing webhooks
+   
         System.debug('Account Record is successfully inserted on Account object'+acclist);
    }
 }
